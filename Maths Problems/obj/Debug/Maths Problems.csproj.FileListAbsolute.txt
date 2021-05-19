@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\bin\Debug\Maths Problems.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\bin\Debug\Maths Problems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\bin\Debug\Maths Problems.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths Problems.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths_Problems.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths_Problems.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths Problems.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths Problems.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths Problems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Maths Basics\Maths Problems\obj\Debug\Maths Problems.pdb
